@@ -42,7 +42,7 @@ public class ViewStudent extends JFrame {
 		add(sp);
 		
 		setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
-		setBounds(100, 100, 800, 400);
+		setBounds(100, 100, 1000, 500);
 	}
 
 	public static void main(String[] args) {

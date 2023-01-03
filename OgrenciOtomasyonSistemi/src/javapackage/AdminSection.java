@@ -86,9 +86,9 @@ public class AdminSection extends JFrame {
 						.addGroup(gl_contentPane.createSequentialGroup()
 							.addGap(149)
 							.addGroup(gl_contentPane.createParallelGroup(Alignment.LEADING)
-								.addComponent(btnViewAccountant, GroupLayout.PREFERRED_SIZE, 130, GroupLayout.PREFERRED_SIZE)
-								.addComponent(btnAddAccountant, GroupLayout.PREFERRED_SIZE, 130, GroupLayout.PREFERRED_SIZE)
-								.addComponent(btnLogout, GroupLayout.PREFERRED_SIZE, 130, GroupLayout.PREFERRED_SIZE))))
+								.addComponent(btnViewAccountant, GroupLayout.PREFERRED_SIZE, 160, GroupLayout.PREFERRED_SIZE)
+								.addComponent(btnAddAccountant, GroupLayout.PREFERRED_SIZE, 160, GroupLayout.PREFERRED_SIZE)
+								.addComponent(btnLogout, GroupLayout.PREFERRED_SIZE, 160, GroupLayout.PREFERRED_SIZE))))
 					.addContainerGap(136, Short.MAX_VALUE))
 		);
 		gl_contentPane.setVerticalGroup(

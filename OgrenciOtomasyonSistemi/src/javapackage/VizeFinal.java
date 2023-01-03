@@ -35,7 +35,7 @@ public class VizeFinal extends JFrame {
 			
 			row++;
 		}
-		String columnNames[]={"ID","İsim","Email","Bölüm","Vize","Final","Proje","Adres","Şehir","İlçe","Ülke","İletişim No"};
+		String columnNames[]={"ID","İsim","Email","Bölüm","Vize","Final","Proje",};
 		
 		JTable jt=new JTable(data,columnNames);
 		JScrollPane sp=new JScrollPane(jt);
