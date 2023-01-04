@@ -1,0 +1,40 @@
+	Nesne tabanlı programlama dersinin proje ödevi için java
+dilinde bir öğrenci otomasyonu sistemi hazırladık. Bu projede
+verilerimizi mySQL üzerinde sakladık. Görsel arayüz olarak da
+java swing kullandık.
+
+	Projemizi tanıtmamız gerekirse. Giriş ekranında bizi 2
+seçenek karşılıyor. Yönetici ve Öğretmen girişi. Yönetici girişi
+yapmak için isim: "admin" ve şifre: "admin" şeklinde giriş 
+yapabiliyoruz. Giriş yaptığımızda karşımıza, öğretmen ekle ve öğreten 
+görüntüle seçenekleri çıkıyor. Giriş yap ekranına geri dönüp öğretmen
+olarak giriş yapmak istediğimizde, önceden eklediğimiz öğretmen bilgileri
+ile giriş yapabiliyoruz. Giriş yaptğımızda karşımıza; öğrenci ekle, öğrenci
+görüntüle, öğrenci düzenle ve vize-final seçenekleri karşımıza çıkıyor.
+Öğrenci düzenle sekmesinde öğrenci ID ile istediğimiz öğrencinin bilgilerini
+düzenleyebiliyoruz. Vize-final sekmesinde ise öğrencilerin vize ve final 
+notlarını görüntüleyebiliyoruz.
+-----------------------------------------------------------------------------
+
+Proje üyeleri:
+
+Yusuf Anıl Turgut - 203405065
+Eşref Emre Bayrakçı - 203405021
+Muhammed Maşuk Aydın - 213405012
+Azim Çağrı Ünal - 213405070
+
+
+4 Ocak 2023
+-----------------------------------------------------------------------------
+
+Projeyi hazırlarken yardım alınan kaynaklar:
+
+https://www.youtube.com/watch?v=0vFZ3K_o2zU&list=PLEcJSEQK_cD5KHgg9sXumeg659hAr2j4W&index=96
+https://www.youtube.com/watch?v=4Fyd-k3eG_I
+https://github.com/jaigora24/Student-Management-System
+https://github.com/Lakshay-Dhingra/Student-Management-System
+https://github.com/van7b/Student-Management-System
+-----------------------------------------------------------------------------
+
+Github linki:
+https://github.com/YusufAnilTurgut/JavaProject
